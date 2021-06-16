@@ -23,54 +23,55 @@ function Projects() {
         <p style={{ color: "white" }}>
           Here are a few projects I've worked on recently.
         </p>
+
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={}
-              isBlog={false}
-              title=""
-              description=""
-              link="https://github.com/beebus/"
+              //imgPath={}
+              //isBlog={false}
+              //title=""
+              //description=""
+              //link="https://github.com/beebus/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={}
-              isBlog={false}
-              title=""
-              description=""
-              link="https://github.com/beebus/"
+              //imgPath={}
+              //isBlog={false}
+              //title=""
+              //description=""
+              //link="https://github.com/beebus/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={}
-              isBlog={false}
-              title=""
-              description=""
-              link="https://github.com/beebus/"
+              //imgPath={}
+              //isBlog={false}
+              //title=""
+              //description=""
+              //link="https://github.com/beebus/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={}
-              isBlog={false}
-              title=""
-              description=""
-              link="https://github.com/beebus/"
+              //imgPath={}
+              //isBlog={false}
+              //title=""
+              //description=""
+              //link="https://github.com/beebus/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={}
-              isBlog={false}
-              title=""
-              description=""
-              link="https://github.com/beebus/"
+              //imgPath={}
+              //isBlog={false}
+              //title=""
+              //description=""
+              //link="https://github.com/beebus/"
             />
           </Col>
         </Row>
