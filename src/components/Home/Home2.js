@@ -29,10 +29,10 @@ function Home2() {
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">... </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Deep Learning and Natural Language Processing.
+                  ....
                 </b>
               </i>
               <br />
@@ -40,7 +40,7 @@ function Home2() {
               Whenever possible, I also apply my passion for developing products
               with
               <i>
-                <b className="purple"> Modern Javascript Frameworks</b>
+                <b className="purple"> modern Javascript frameworks</b>
               </i>
               &nbsp; like
               <i>
@@ -48,7 +48,7 @@ function Home2() {
               </i>
             </p>
           </Col>
-          <Col md={4} className="myAvtar">
+          <Col md={4} className="myAvatar">
             <Tilt>
               <img src={myImg} className="img-fluid" alt="avatar" />
             </Tilt>
