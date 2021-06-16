@@ -1,6 +1,6 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="http://soumyajit.tech/" target="_blank">soumyajit.tech</a>
+  Portfolio Website - v1.0<br/>
+  <a href="http://michaelbeebower.com" target="_blank">michaelbeebower.com</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -20,20 +20,21 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/beebus/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/beebus/Portfolio/issues">Request Feature</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. <br/>
+To create this Portfolio repo, I forked the repo from [Soumyajit4419](https://github.com/soumyajit4419/Portfolio).
 
 ## Built With
 
-My personal portfolio <a href="http://soumyajit.tech/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="http://michaelbeebower.com" target="_blank">michaelbeebower.com</a> which features some of my GitHub projects as well as my resume and technical skills.<br/>
 
-This project was built using these technologies.
+I built this project using these technologies.
 
 - React.js
 - Node.js
@@ -52,7 +53,7 @@ This project was built using these technologies.
 
 ## Getting Started
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+Clone this repository from GitHub. You will need `node.js` and `git` installed globally on your local computer.
 
 ## 🛠 Installation and Setup Instructions
 
