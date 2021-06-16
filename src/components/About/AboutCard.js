@@ -8,17 +8,15 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi everyone, I am <span className="purple">Michael Beebower </span>
-            from <span className="purple"> Austin, Texas, USA.</span>
-            <br />I am a 3rd-year, approaching 4th-year, student, pursuing a Bachelors degree in Software Development at Austin Community College.
+            Hi, I'm <span className="purple">Michael Beebower </span>
+            from <span className="purple"> Austin, Texas.</span>
+            <br />I'm a 4th-year student, pursuing a <a href="https://www6.austincc.edu/cms/site/www/catalog/programmaps/programmap.php?ap=7049&yr=2022">Bachelors degree in Software Development at ACC</a>.
             <br />
             <br />
-            Apart from coding, here are some other activities that I love to do!
+            <br />
+            Apart from coding, these are some other activities that I enjoy:
           </p>
           <ul>
-            <li className="about-activity">
-              <ImPointRight /> Playing Games
-            </li>
             <li className="about-activity">
               <ImPointRight /> Camping
             </li>
@@ -31,9 +29,9 @@ function AboutCard() {
           </ul>
 
           <p style={{ marginBlockEnd: 0, color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "All repetitive, menial computer tasks can most likely be automated or partially automated with the right code."{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Michael Beebower</footer>
         </blockquote>
       </Card.Body>
     </Card>

@@ -2,14 +2,14 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import { CgCPlusPlus } from "react-icons/cg";
 import {
-  DiJavascript1,
-  DiReact,
-  DiNodejs,
-  DiMongodb,
-  DiPython,
-  DiGit,
+    DiJavascript1,
+    DiReact,
+    DiNodejs,
+    DiBootstrap,
+    DiPython,
+    DiDjango, DiJava, DiRasberryPi
 } from "react-icons/di";
-import { SiPytorch, SiTensorflow, SiFirebase } from "react-icons/si";
+import {SiJupyter} from "react-icons/si";
 
 function Techstack() {
   return (
@@ -27,23 +27,23 @@ function Techstack() {
         <DiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiMongodb />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <DiPython />
       </Col>
+        <Col xs={4} md={2} className="tech-icons">
+            <DiDjango />
+        </Col>
+        <Col xs={4} md={2} className="tech-icons">
+            <SiJupyter />
+        </Col>
+        <Col xs={4} md={2} className="tech-icons">
+            <DiJava />
+        </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPytorch />
+        <DiBootstrap />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiTensorflow />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiGit />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiFirebase />
-      </Col>
+        <Col xs={4} md={2} className="tech-icons">
+            <DiRasberryPi />
+        </Col>
     </Row>
   );
 }
