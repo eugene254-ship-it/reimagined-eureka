@@ -8,8 +8,8 @@ function Like() {
   const postUri = "https://porfolio-backend.vercel.app/likes/updateLikes";
 
   const [numLike, updateLike] = useState(0);
-  const [likeCounter, upadteCounter] = useState(0);
-  const [btnState, upadteBtn] = useState(true);
+  const [likeCounter, updateCounter] = useState(0);
+  const [btnState, updateBtn] = useState(true);
   const [likeClass, updateClass] = useState("far fa-heart");
 
   useEffect(() => {
@@ -17,7 +17,7 @@ function Like() {
       .get(uri)
       .then((res) => {
         updateLike(res.data.data);
-        upadteBtn(false);
+        updateBtn(false);
       })
       .catch((err) => {
         console.log(err);
@@ -27,10 +27,10 @@ function Like() {
   function clickHandler() {
     updateClass("far fa-heart animate-like");
     updateLike(numLike + 1);
-    upadteCounter(likeCounter + 1);
+    updateCounter(likeCounter + 1);
 
     if (likeCounter > 3) {
-      upadteBtn(true);
+      updateBtn(true);
     }
 
     axios

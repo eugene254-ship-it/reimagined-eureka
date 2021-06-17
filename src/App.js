@@ -5,7 +5,7 @@ import Home from "./components/Home/Home";
 import About from "./components/About/About";
 import Projects from "./components/Projects/Projects";
 import Footer from "./components/Footer";
-import Resume from "./components/Resume/Resume";
+// import Resume from "./components/Resume/Resume";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import "./style.css";
 import "./App.css";
@@ -14,10 +14,10 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import ScrollToTop from "./components/ScrollToTop";
 
 function App() {
-  const [load, upadateLoad] = useState(true);
+  const [load, updateLoad] = useState(true);
   useEffect(() => {
     setTimeout(() => {
-      upadateLoad(false);
+      updateLoad(false);
     }, 1200);
   }, []);
 
@@ -31,7 +31,6 @@ function App() {
           <Route path="/" exact component={Home} />
           <Route path="/project" component={Projects} />
           <Route path="/about" component={About} />
-          <Route path="/resume" component={Resume} />
         </Switch>
         <Footer />
       </div>
@@ -40,3 +39,5 @@ function App() {
 }
 
 export default App;
+
+// <Route path="/resume" component={Resume} />
