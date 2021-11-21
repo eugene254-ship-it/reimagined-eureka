@@ -14,10 +14,10 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copyright">
-          <h3>Developed by Michael Beebower - Template by Soumyajit Behera</h3>
+          <h3>Developed by Michael Beebower</h3>
         </Col>
         <Col md="4" className="footer-copyright">
-          <h3>Copyright © {year} MB, SB</h3>
+          <h3>Copyright © {year} MB</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
@@ -31,7 +31,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/beebower/"
+                href="https://www.linkedin.com/in/michael-beebower/"
                 style={{ color: "white" }}
               >
                 <FaLinkedinIn />
