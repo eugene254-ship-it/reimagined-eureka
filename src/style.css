@@ -597,6 +597,7 @@ html {
 /* --------- */
 /* Resume */
 /* --------- */
+
 .resume-section {
   position: relative !important;
   padding-top: 110px !important;
@@ -606,7 +607,7 @@ html {
 }
 
 .resume {
-  padding-top: 10px;
+  padding-top: 10px;   /* 50px */
   padding-bottom: 50px;
 }
 
