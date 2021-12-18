@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v1.0<br/>
-  <a href="http://michaelbeebower.com" target="_blank">michaelbeebower.com</a>
+  <a href="https://michaelbeebower.com" target="_blank">michaelbeebower.com</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -38,7 +38,7 @@ To create this Portfolio repo, I forked the repo from [Soumyajit4419](https://gi
 
 ## Built With
 
-My personal portfolio <a href="http://michaelbeebower.com" target="_blank">michaelbeebower.com</a> which features some of my GitHub projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://michaelbeebower.com" target="_blank">michaelbeebower.com</a> which features some of my GitHub projects as well as my resume and technical skills.<br/>
 
 I built this project using these technologies.
 
