@@ -10,8 +10,8 @@
 
 <center>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com) &nbsp;
 ![GitHub Repo stars](https://img.shields.io/github/stars/beebus/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
@@ -26,7 +26,7 @@
     <a href="https://github.com/beebus/Portfolio/issues">Request Feature</a>
 </h3>
 
-My software development portfolio website, <a href="https://michaelbeebower.com" target="_blank">michaelbeebower.com</a>, which features some of my GitHub projects as well as my resume and technical skills.<br/>
+Welcome to my portfolio website, <a href="https://michaelbeebower.com" target="_blank">michaelbeebower.com</a>, where I can showcase my software development projects, tell you more about me, and what I am looking for. Last but not least, this is where you can take a look at my resume, my LinkedIn and other profiles, and ways to contact me.<br/>
 
 ## Built With
 
