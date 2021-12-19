@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website - v1.0<br/>
+  Portfolio Website - v1.0.0<br/>
   <a href="https://michaelbeebower.com" target="_blank">michaelbeebower.com</a>
 </h2>
 <div align="center">
@@ -26,22 +26,18 @@
     <a href="https://github.com/beebus/Portfolio/issues">Request Feature</a>
 </h3>
 
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. <br/>
-To create this Portfolio repo, I forked the repo from [Soumyajit4419](https://github.com/soumyajit4419/Portfolio).
+My software development portfolio website, <a href="https://michaelbeebower.com" target="_blank">michaelbeebower.com</a>, which features some of my GitHub projects as well as my resume and technical skills.<br/>
 
 ## Built With
-
-My personal portfolio <a href="https://michaelbeebower.com" target="_blank">michaelbeebower.com</a> which features some of my GitHub projects as well as my resume and technical skills.<br/>
-
-I built this project using these technologies.
 
 - React.js
 - Node.js
 - Express.js
 - CSS
 - Vercel
+
+You can fork this repo to modify and make changes of your own. <br/>
+To create this Portfolio repo, I forked the repo from [Soumyajit4419](https://github.com/soumyajit4419/Portfolio).
 
 ## Features
 
