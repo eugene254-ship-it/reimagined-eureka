@@ -19,7 +19,7 @@ html {
 }
 
 /* --------- */
-/*  Preloader */
+/* Preloader */
 /* --------- */
 #preloader {
   position: fixed;
@@ -44,7 +44,7 @@ html {
 }
 
 /* --------- */
-/*Scrollbar   */
+/* Scrollbar */
 /* --------- */
 
 ::-webkit-scrollbar {
@@ -68,9 +68,9 @@ html {
   border-radius: 12px;
 }
 
-/* --------- */
-/* Navbar Section  */
-/* --------- */
+/* -------------- */
+/* Navbar Section */
+/* -------------- */
 .sticky {
   background-color: #212038d8 !important;
   transition: all 0.3s ease-out 0s !important;
@@ -202,9 +202,9 @@ html {
   width: 100%;
 }
 
-/* --------- */
-/* Home section */
-/* --------- */
+/* ------------ */
+/* Home Section */
+/* ------------ */
 .wave {
   animation-name: wave-animation; /* Refers to the name of your @keyframes element below */
   animation-duration: 2.1s; /* Change to speed up or slow down */
@@ -396,7 +396,7 @@ html {
 }
 
 /* --------- */
-/* Footer */
+/*  Footer   */
 /* --------- */
 .footer {
   background-color: rgb(10, 4, 22);
@@ -438,7 +438,7 @@ html {
   color: #a588c0 !important;
 }
 /* --------- */
-/* Projects */
+/*  Projects */
 /* --------- */
 .project-section {
   position: relative !important;
@@ -535,7 +535,7 @@ html {
 }
 
 /* --------- */
-/* About */
+/*   About   */
 /* --------- */
 
 .about-section {
@@ -595,7 +595,7 @@ html {
   }
 }
 /* --------- */
-/* Resume */
+/*  Resume   */
 /* --------- */
 
 .resume-section {
@@ -607,8 +607,9 @@ html {
 }
 
 .resume {
-  padding-top: 10px;   /* 50px */
+  padding-top: 50px;   /* 10px */
   padding-bottom: 50px;
+  justify-content: center;
 }
 
 .resume-left {
