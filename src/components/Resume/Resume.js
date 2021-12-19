@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
-import Resumecontent from "./ResumeContent";
+import ResumeContent from "./ResumeContent";
 import axios from "axios";
 import pdf from "../../Assets/Resume_Michael_Beebower.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
@@ -41,7 +41,7 @@ function Resume() {
         <Row className="resume">
           <Col md={6} className="resume-left">
             <h3 className="resume-title">Experience</h3>
-            <Resumecontent
+            <ResumeContent
               title="Placeholder"
               date="Placeholder"
               content={[
@@ -53,7 +53,7 @@ function Resume() {
               ]}
             />
             <h3 className="resume-title">Extracurricular Activities</h3>
-            <Resumecontent
+            <ResumeContent
               title="Placeholder"
               content={[
                 "Placeholder",
@@ -62,14 +62,14 @@ function Resume() {
           </Col>
           <Col md={6} className="resume-right">
             <h3 className="resume-title">Education</h3>
-            <Resumecontent
+            <ResumeContent
               title="Placeholder"
               date="Placeholder"
               content={[`CGPA: ${cgpa} (Till ${sem}th Sem)`]}
             />
 
             <h3 className="resume-title">Publications</h3>
-            <Resumecontent
+            <ResumeContent
               title=""
               content={[
                 "Placeholder",
@@ -77,7 +77,7 @@ function Resume() {
             />
 
             <h3 className="resume-title">Ranks and Achivements</h3>
-            <Resumecontent
+            <ResumeContent
               title=""
               content={[
                 `Current rank in Spoj ${spojRank}`,
