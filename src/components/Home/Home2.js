@@ -33,10 +33,10 @@ function Home2() {
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">...placeholder </b> and
-                also in areas related to{" "}
+                <b className="purple">.Decentralized Projects </b> and
+                also in areas related to{"Cryptocurrency "}
                 <b className="purple">
-                  ....placeholder
+                  ...Blockchain Technology
                 </b>
               </i>
               <br />
