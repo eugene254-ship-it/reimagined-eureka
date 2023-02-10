@@ -14,7 +14,7 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copyright">
-          <h3>Developed by Michael Beebower</h3>
+          <h3>Developed by Eugene Ochako</h3>
         </Col>
         <Col md="4" className="footer-copyright">
           <h3>Copyright © {year} MB</h3>
@@ -23,7 +23,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/beebus/"
+                href="https://github.com/eugene254-ship-it/"
                 style={{ color: "white" }}
               >
                 <AiFillGithub />
@@ -31,7 +31,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/michael-beebower/"
+                href="https://www.linkedin.com/in/eugeneochako/"
                 style={{ color: "white" }}
               >
                 <FaLinkedinIn />

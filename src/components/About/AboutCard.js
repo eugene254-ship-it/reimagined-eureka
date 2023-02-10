@@ -8,9 +8,9 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi, I'm <span className="purple">Michael Beebower </span>
-            from <span className="purple"> Austin, Texas.</span>
-            <br />I'm a 4th-year student, pursuing a <a href="https://www6.austincc.edu/cms/site/www/catalog/programmaps/programmap.php?ap=7049&yr=2022">Bachelors degree in Software Development at ACC</a>.
+            Hi, I'm <span className="purple">Eugene Ochako </span>
+            from <span className="purple"> Nbi, Might be Wakanda.</span>
+            <br />I'm a CyberSecurity Engineer <a href="https://github.com/eugene254-ship-it">Bachelors degree in Software Development, CyberSecurity</a>.
             <br />
             <br />
             <br />
@@ -18,10 +18,10 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Camping
+              <ImPointRight /> Camping & Remote Jobs
             </li>
             <li className="about-activity">
-              <ImPointRight /> Traveling
+              <ImPointRight /> Traveling 
             </li>
             <li className="about-activity">
               <ImPointRight /> Listening to Music
@@ -31,7 +31,7 @@ function AboutCard() {
           <p style={{ marginBlockEnd: 0, color: "rgb(155 126 172)" }}>
             "All repetitive, menial computer tasks can most likely be automated or partially automated with the right code."{" "}
           </p>
-          <footer className="blockquote-footer">Michael Beebower</footer>
+          <footer className="blockquote-footer">Eugene Ochako</footer>
         </blockquote>
       </Card.Body>
     </Card>

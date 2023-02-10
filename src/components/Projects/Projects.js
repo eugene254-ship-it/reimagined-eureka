@@ -31,7 +31,7 @@ function Projects() {
               //isBlog={false}
               //title=""
               //description=""
-              //link="https://github.com/beebus/"
+              //link="https://github.com/eugene254-ship-it/"
             />
           </Col>
 
@@ -41,7 +41,7 @@ function Projects() {
               //isBlog={false}
               //title=""
               //description=""
-              //link="https://github.com/beebus/"
+              //link="https://github.com/eugene254-ship-it/"
             />
           </Col>
 
@@ -51,7 +51,7 @@ function Projects() {
               //isBlog={false}
               //title=""
               //description=""
-              //link="https://github.com/beebus/"
+              //link="https://github.com/eugene254-ship-it/"
             />
           </Col>
 
@@ -61,7 +61,7 @@ function Projects() {
               //isBlog={false}
               //title=""
               //description=""
-              //link="https://github.com/beebus/"
+              //link="https://github.com/eugene254-ship-it/"
             />
           </Col>
 
@@ -71,7 +71,7 @@ function Projects() {
               //isBlog={false}
               //title=""
               //description=""
-              //link="https://github.com/beebus/"
+              //link="https://github.com/eugene254-ship-it/"
             />
           </Col>
         </Row>

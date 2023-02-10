@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/hacker.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -19,7 +19,7 @@ function Home2() {
               Let Me <span className="purple"> Introduce </span> Myself
             </h1>
             <p className="home-about-body">
-              Since I was a kid, I have loved and excelled in programming, mathematics, natural sciences, data analysis, electronics, and problem solving.
+              Creating & Innovating, Reach out to me on my Email (eugeneochako@gmail.com)
               <br />
               <br />I am experienced in programming languages including
               <i>
@@ -52,9 +52,9 @@ function Home2() {
               </i>
             </p>
           </Col>
-          <Col md={4} className="myAvatar">
+          <Col md={4} className="myhacker">
             <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
+              <img src={myImg} className="img-fluid" alt="hacker" />
             </Tilt>
           </Col>
         </Row>
@@ -67,7 +67,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/beebus"
+                  href="https://github.com/eugene254-ship-it"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -77,7 +77,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/michael-beebower/"
+                  href="https://www.linkedin.com/in/eugeneochako/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"

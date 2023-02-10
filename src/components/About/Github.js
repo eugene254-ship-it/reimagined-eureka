@@ -18,7 +18,7 @@ function Github() {
         When I Have Used <strong className="purple">GitHub</strong>
       </h1>
       <GitHubCalendar
-        username="beebus"
+        username="eugene254-ship-it"
         blockSize={15}
         blockMargin={5}
         theme={colourTheme}
