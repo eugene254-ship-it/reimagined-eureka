@@ -29,9 +29,9 @@ function Projects() {
             <ProjectCard
               //imgPath={}
               //isBlog={false}
-              //title=""
-              //description=""
-              //link="https://github.com/eugene254-ship-it/"
+              title="Delivery Platform Start-Up"
+              description="Food Express App"
+              link="https://github.com/eugene254-ship-it/easy-food-express"
             />
           </Col>
 
